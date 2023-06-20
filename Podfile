@@ -10,5 +10,6 @@ target 'nues' do
   pod 'RxSwift', '6.0.0'
   pod 'RxCocoa', '6.0.0'
   pod 'Alamofire', '5.0.0'
+  pod 'Kingfisher', '~> 6.0'
 
 end
